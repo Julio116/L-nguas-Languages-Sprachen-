@@ -1,0 +1,577 @@
+1zeigen,mostrar, apontar
+2suchen,procurar
+3bekommen,receber, obter
+4verstehen,entender, compreender
+5finden,encontrar
+6bleiben,permanecer, ficar
+7arbeiten,trabalhar
+8legen,colocar, pôr (horizontalmente)
+9folgen,seguir
+10studieren,estudar
+11gehören,pertencer
+12gewinnen,ganhar, vencer
+13verlieren,perder
+14fehlen,faltar, estar ausente
+15entstehen,surgir, originar-se
+16treffen,encontrar (alguém), atingir
+17tragen,carregar, vestir
+18sitzen,estar sentado
+19lesen,ler
+20lernen,aprender
+21spielen,jogar, brincar
+22laufen,correr, andar (a pé)
+23fahren,dirigir, viajar (em veículo)
+24schlafen,dormir
+25bringen,trazer
+26nehmen,pegar, tomar
+27denken,pensar
+28essen,comer
+29trinken,beber
+30helfen,ajudar
+31versuchen,tentar
+32beginnen,começar, iniciar
+33hoffen,esperar, ter esperança
+34reisen,viajar
+35warten,esperar
+36erklären,explicar
+37erreichen,alcançar
+38zahlen,pagar
+39erkennen,reconhecer
+40feiern,celebrar, festejar
+41verkaufen,vender
+42mieten,alugar
+43kaufen,comprar
+44bauen,construir
+45öffnen,abrir
+46schließen,fechar
+47ändern,mudar, alterar
+48wohnen,morar, residir
+49planen,planejar
+50reisen,viajar
+51vergleichen,comparar
+52bekämpfen,combater
+53beschreiben,descrever
+54genießen,aproveitar, desfrutar
+55entscheiden,decidir
+56verdienen,ganhar (dinheiro), merecer
+57erlauben,permitir
+58bestehen,passar (em algo), consistir
+59vermieten,alugar (alguém aluga para outro)
+60erreichen,alcançar
+61vergessen,esquecer
+62weinen,chorar
+63gründen,fundar, estabelecer
+64überlegen,refletir, considerar
+65beschweren,reclamar
+66berichten,relatar, reportar
+67eröffnen,inaugurar, abrir (algo oficialmente)
+68gefallen,agradar
+69gehören,pertencer
+70schicken,enviar, mandar
+71beklagen,lamentar
+72entdecken,descobrir
+73beenden,terminar, finalizar
+74verlängern,prolongar, estender
+75sparen,poupar, economizar
+76ändern,mudar, modificar
+77übernachten,passar a noite, pernoitar
+78diskutieren,discutir, debater
+79verbessern,melhorar, aperfeiçoar
+80versprechen,prometer
+81kündigen,rescindir, cancelar
+82erleben,vivenciar, experimentar
+83entfernen,remover, afastar
+84verbringen,passar (tempo)
+85verstehen,entender, compreender
+86bestellen,encomendar, pedir
+87besuchen,visitar
+88empfehlen,recomendar
+89verdienen,merecer, ganhar (dinheiro)
+90reisen,viajar
+91verbieten,proibir
+92entschuldigen,desculpar
+93abschließen,concluir, encerrar
+94anbieten,oferecer
+95betreten,entrar (em um local)
+96wählen,escolher, votar
+97schaden,prejudicar
+98retten,salvar
+99fordern,exigir
+100fördern,incentivar, promover
+101befinden,encontrar-se, estar localizado
+102vorstellen,apresentar, imaginar (dependendo do contexto)
+103erziehen,educar, criar (filhos)
+104bedeuten,significar, querer dizer
+105entwickeln,desenvolver
+106verlassen,deixar, abandonar
+107verfolgen,perseguir, seguir
+108besitzen,possuir
+109anwenden,aplicar (uma técnica, método)
+110vereinbaren,combinar, concordar
+111vorbereiten,preparar
+112grüßen,cumprimentar
+113beeinflussen,influenciar
+114erforschen,pesquisar, explorar
+115untersuchen,investigar, examinar
+116warnen,alertar, avisar
+117zwingen,forçar, obrigar
+118einrichten,mobiliar, configurar
+119erkennen,reconhecer
+120verzeihen,perdoar
+121beschützen,proteger
+122nachfragen,perguntar, consultar (novamente)
+123abbiegen,virar (em uma direção)
+124begegnen,encontrar (alguém por acaso)
+125verändern,transformar, mudar
+126zurückkehren,voltar, retornar
+127ausschließen,excluir
+128ermöglichen,possibilitar
+129schätzen,estimar, valorizar
+130bestehen auf,insistir em algo
+131enthalten,conter, incluir
+132feststellen,determinar, constatar
+133ablehnen,recusar, rejeitar
+134überzeugen,convencer
+135ankommen,chegar
+136auswählen,selecionar, escolher
+137behalten,manter, conservar
+138verbinden,conectar, unir
+139wiederholen,repetir
+140verhalten (sich),comportar-se
+141teilnehmen,participar
+142überqueren,atravessar
+143erreichen,alcançar, chegar
+144entstehen,surgir, originar-se
+145zurückziehen (sich),retirar-se, recuar
+146erscheinen,aparecer, parecer
+147hassen,odiar
+148schweigen,ficar em silêncio
+149vermeiden,evitar
+150verschwinden,desaparecer
+151nachdenken,refletir, pensar sobre
+152unterstützen,apoiar, dar suporte
+153aufwachen,acordar
+154ausgeben,gastar (dinheiro)
+155aufstehen,levantar-se
+156beobachten,observar
+157unterrichten,ensinar, instruir
+158aufhören,parar, cessar
+159mitbringen,trazer junto
+160vorbeigehen,passar por (um lugar ou pessoa)
+161aussteigen,desembarcar, sair de um veículo
+162aufpassen,prestar atenção, cuidar
+163mitmachen,participar, envolver-se
+164beweisen,provar, demonstrar
+165erzielen,alcançar, obter
+166abschicken,enviar
+167aufnehmen,gravar, absorver
+168ausziehen,despir-se, mudar-se (de uma casa)
+169aussehen,parecer, ter aparência de
+170ankündigen,anunciar
+171behandeln,tratar, lidar com
+172nachschauen,verificar, conferir
+173aussprechen,pronunciar, expressar
+174beitragen,contribuir
+175abbrechen,cancelar, interromper
+176einladen,convidar
+177umsteigen,trocar de transporte
+178anhalten,parar (veículo), deter
+179auswenden,evitar (problemas ou situações)
+180aufklären,esclarecer, explicar
+181weggehen,ir embora
+182zuschauen,assistir, observar
+183anbieten,oferecer
+184zustimmen,concordar
+185zusammenfassen,resumir
+186hinterlassen,deixar algo para trás
+187ausprobieren,experimentar, testar
+188umziehen,mudar-se de casa
+189abräumen,limpar, arrumar (mesa, por exemplo)
+190durchführen,realizar, executar
+191nachholen,recuperar, compensar (tempo ou atividade perdida)
+192zusammenarbeiten,colaborar, trabalhar junto
+193annehmen,aceitar, assumir
+194vorziehen,preferir, dar prioridade
+195abschreiben,copiar, transcrever
+196festhalten,segurar, agarrar
+197durchlesen,ler (do começo ao fim)
+198einfallen,ocorrer (uma ideia)
+199auffallen,chamar atenção, sobressair
+200ausfallen,falhar, ser cancelado
+201entlassen,demitir, liberar
+202ankreuzen,marcar com um X
+203abfahren,partir (de um veículo)
+204anrufen,telefonar
+205abschalten,desligar
+206zurückbringen,devolver
+207aufstellen,montar, erguer
+208austauschen,trocar, substituir
+209hinzufügen,adicionar
+210herstellen,fabricar, produzir
+211bewerten,avaliar, classificar
+212beantragen,solicitar, requerer
+213zustellen,entregar (formalmente)
+214vorankommen,avançar, progredir
+215ankommen auf,depender de algo
+216einschalten,ligar (um dispositivo)
+217ausleihen,emprestar
+218auswandern,emigrar
+219aufbewahren,guardar, armazenar
+220ausstellen,emitir, expor
+221ankleben,colar
+222unterbrechen,interromper
+223nachweisen,comprovar
+224zustehen,ter direito a algo
+225zurückgehen,voltar, recuar
+226abbilden,ilustrar, retratar
+227durchsehen,revisar, conferir
+228beauftragen,encarregar, delegar
+229ausführen,executar, realizar
+230anwachsen,aumentar, crescer
+231aufzeigen,demonstrar, mostrar
+232unterhalten (sich),conversar, entreter-se
+233aufhängen,pendurar
+234einschränken,limitar, restringir
+235ausreichen,ser suficiente
+236bewahren,preservar, proteger
+237befristen,limitar (no tempo)
+238anpassen,ajustar, adaptar
+239umstellen,reorganizar, ajustar
+240aufgeben,desistir, abandonar
+241zusammenstellen,compilar, organizar
+242beurteilen,julgar, avaliar
+243mitteilen,comunicar, informar
+244hinlegen,deitar, colocar
+245auskommen,lidar com algo/alguém, sobreviver
+246einsparen,economizar, cortar gastos
+247durchschauen,perceber, entender (algo oculto)
+248abnehmen,perder peso, remover
+249umsetzen,implementar, colocar em prática
+250anhalten,parar (veículo ou pessoa)
+251wiedererkennen,reconhecer novamente
+252aufmachen,abrir (de maneira casual)
+253nachlesen,verificar, reler
+254zusammenziehen,morar junto, contrair
+255zurechtkommen,lidar, dar conta
+256abstimmen,votar, coordenar
+257abnehmen,diminuir, remover, emagrecer
+258vorschlagen,sugerir, propor
+259einrichten,configurar, mobiliar
+260zurückschicken,devolver, enviar de volta
+261aufschreiben,anotar
+262ansteigen,subir, aumentar
+263abbauen,desmontar, reduzir
+264anbinden,amarrar, conectar
+265auseinandergehen,separar, romper
+266vergleichen,comparar
+267aufdrehen,aumentar, abrir (torneira, por exemplo)
+268zusagen,prometer, confirmar
+269weglassen,omitir, deixar de lado
+270ausbilden,treinar, formar
+271einziehen,mudar-se (para um lugar), confiscar
+272nachdrucken,reimprimir
+273auftreten,aparecer, se apresentar (no palco)
+274vorgehen,proceder, agir
+275zusammenbrechen,colapsar, desmoronar
+276einräumen,conceder, admitir
+277nachgeben,ceder, desistir
+278aufzeichnen,gravar, registrar
+279zurückrufen,ligar de volta
+280widersprechen,contradizer
+281unterbinden,impedir, suprimir
+282nachkommen,cumprir, seguir (algo ou alguém)
+283aufbewahren,guardar, armazenar
+284ausbauen,expandir, desenvolver
+285einsehen,perceber, inspecionar
+286wahrnehmen,perceber, notar
+287anordnen,organizar, ordenar
+288hervorheben,destacar, enfatizar
+289festlegen,determinar, estabelecer
+290einschätzen,avaliar, estimar
+291verwirklichen,realizar, concretizar
+292ausbrechen,escapar, irromper
+293anfordern,requisitar, demandar
+294ausweichen,evitar, desviar-se
+295zurücklegen,reservar, percorrer (distância)
+296ablegen,descartar, arquivar
+1der Computer,computador
+2die Software,software
+3die Hardware,hardware
+4das Internet,internet
+5der Bildschirm,tela
+6die Tastatur,teclado
+7die Maus,mouse
+8der Drucker,impressora
+9das Handy,celular
+10das Smartphone,smartphone
+11die App,aplicativo
+12die Webseite,site da web
+13die Datenbank,banco de dados
+14der Speicher,memória (armazenamento)
+15die Cloud,nuvem (computação em nuvem)
+16der Router,roteador
+17der Server,servidor
+18die Verbindung,conexão
+19das WLAN,Wi-Fi
+20der Code,código (programação)
+21der Algorithmus,algoritmo
+22die Programmierung,programação
+23die Technologie,tecnologia
+24der Fortschritt,progresso
+25die Innovation,inovação
+1die Biologie,biologia
+2die Chemie,química
+3die Physik,física
+4die Astronomie,astronomia
+5die Geologie,geologia
+6die Mathematik,matemática
+7die Meteorologie,meteorologia
+8die Ökologie,ecologia
+9die Genetik,genética
+10die Evolution,evolução
+11die Zelle,célula
+12das Molekül,molécula
+13das Atom,átomo
+14die DNA,DNA (ácido desoxirribonucleico)
+15der Organismus,organismo
+16die Photosynthese,fotossíntese
+17das Experiment,experimento
+18die Hypothese,hipótese
+19die Theorie,teoria
+20der Forscher / die Forscherin,pesquisador / pesquisadora
+1die Ingenieurwissenschaften,engenharia
+2die Technik,técnica
+3die Robotertechnik,robótica
+4die Nanotechnologie,nanotecnologia
+5die Elektrotechnik,engenharia elétrica
+6die Maschinenbau,engenharia mecânica
+7die Medientechnologie,tecnologia dos meios (mídia)
+8die Umwelttechnik,tecnologia ambiental
+9die erneuerbare Energie,energia renovável
+10die Automatisierung,automação
+11der Elektromotor,motor elétrico
+12die Solarenergie,energia solar
+13die Windenergie,energia eólica
+14die Geothermie,geotermia
+15der Solarzellen,célula solar
+1die Medizin,medicina
+2die Anatomie,anatomia
+3die Chirurgie,cirurgia
+4die Diagnostik,diagnóstico
+5die Therapie,terapia
+6die Forschung,pesquisa
+7das Medikament,medicamento
+8die Impfung,vacina
+9die Epidemie,epidemia
+10die Pandemie,pandemia
+11das Virus,vírus
+12die Bakterien,bactérias
+13die Mikrobiologie,microbiologia
+14die Psychologie,psicologia
+15die Neurologie,neurologia
+1der Algorithmus,algoritmo
+2die Künstliche Intelligenz (KI),inteligência artificial
+3die Augmented Reality (AR),realidade aumentada
+4die Virtuelle Realität (VR),realidade virtual
+5die Blockchain,blockchain
+6die Cybersicherheit,cibersegurança
+7der Virus,vírus (informático)
+8der Trojaner,cavalo de Troia (vírus)
+9der Hacker,hacker
+10die Verschlüsselung,criptografia
+11der Chip,chip
+12das Betriebssystem,sistema operacional
+13die Datenübertragung,transferência de dados
+14der Datenträger,meio de armazenamento de dados
+15die Programmiersprache,linguagem de programação
+16der Serverraum,sala de servidores
+17die Benutzeroberfläche,interface do usuário
+18das Benutzerkonto,conta de usuário
+19der Webbrowser,navegador de internet
+20die Datenanalyse,análise de dados
+21die Cloud-Technologie,tecnologia de nuvem
+22die Datensicherheit,segurança de dados
+1die Atmosphäre,atmosfera
+2der Ozean,oceano
+3die Kontinentalplatte,placa tectônica
+4der Vulkan,vulcão
+5das Erdbeben,terremoto
+6der Tsunami,tsunami
+7die Klimaforschung,pesquisa climática
+8die Geothermie,geotermia
+9das Magnetfeld,campo magnético
+10die Erderwärmung,aquecimento global
+11die nachhaltige Entwicklung,desenvolvimento sustentável
+12die Umweltschutz,proteção ambiental
+13der Klimawandel,mudança climática
+14das Ökosystem,ecossistema
+15die Biodiversität,biodiversidade
+1die Gravitation,gravidade
+2die Energie,energia
+3die Wärme,calor
+4die Arbeit (Physik),trabalho (físico)
+5die Lichtgeschwindigkeit,velocidade da luz
+6die Schallwelle,onda sonora
+7der Magnetismus,magnetismo
+8die Elektromagnetische Strahlung,radiação eletromagnética
+9der Quantenmechanik,mecânica quântica
+10die Relativitätstheorie,teoria da relatividade
+11die Thermodynamik,termodinâmica
+12das Newtonsche Gesetz,lei de Newton
+13die Wellenlänge,comprimento de onda
+1die Evolutionstheorie,teoria da evolução
+2die Zellenbiologie,biologia celular
+3die Mikroskopie,microscopia
+4der Genom,genoma
+5die Gentechnik,engenharia genética
+6die Stammzellen,células-tronco
+7die Immunologie,imunologia
+8die Pharmakologie,farmacologia
+9die Neurobiologie,neurobiologia
+10die Enzyme,enzimas
+11die Proteine,proteínas
+12das Nervensystem,sistema nervoso
+13der Stoffwechsel,metabolismo
+14die Photosynthese,fotossíntese
+15die Hormone,hormônios
+1das Molekül,molécula
+2die Atomstruktur,estrutura atômica
+3die Chemische Reaktion,reação química
+4das Periodensystem,tabela periódica
+5das Element,elemento
+6das Lösungsmittel,solvente
+7die Säure,ácido
+8die Base,base (química)
+9die Oxidation,oxidação
+10die Reduktion,redução
+11die Polymerisation,polimerização
+12das Katalysator,catalisador
+1die Datenwissenschaft,ciência de dados
+2die Informatik,informática
+3die Computergrafik,computação gráfica
+4der Code,código
+5der Algorithmus,algoritmo
+6die Schnittstelle,interface
+7die Netzwerktechnologie,tecnologia de rede
+8die Datenstruktur,estrutura de dados
+9die künstliche Intelligenz,inteligência artificial
+10das maschinelle Lernen,aprendizado de máquina
+11die neuronalen Netzwerke,redes neurais
+12die Robotik,robótica
+1der Fortschritt,progresso
+2die Forschung,pesquisa
+3der Entdeckung,descoberta
+4die Erfindung,invenção
+5der Test,teste
+6die Simulation,simulação
+7das Experiment,experimento
+8die Hypothese,hipótese
+9die Theorie,teoria
+10die Entwicklung,desenvolvimento
+11die Anwendung,aplicação
+12die Entropie,entropia
+1die digitale Transformation,transformação digital
+2der Algorithmus,algoritmo
+3die künstliche Intelligenz (KI),inteligência artificial
+4die Big Data,grandes volumes de dados
+5das Internet der Dinge (IoT),Internet das Coisas
+6der Blockchain,blockchain
+7der 3D-Drucker,impressora 3D
+8die Robotik,robótica
+9die virtuelle Realität (VR),realidade virtual
+10die Augmented Reality (AR),realidade aumentada
+11die Machine Learning (ML),aprendizado de máquina
+12die Verarbeitungseinheit,unidade de processamento
+13die Cyberattacke,ciberataque
+14der Cloud-Speicher,armazenamento na nuvem
+15die IT-Infrastruktur,infraestrutura de TI
+16die Datenverschlüsselung,criptografia de dados
+17der 5G-Netzwerk,rede 5G
+18die Datenkompression,compressão de dados
+19die Anwendungsentwicklung,desenvolvimento de aplicativos
+20die Softwareentwicklung,desenvolvimento de software
+21die Schnittstelle,interface
+22die Nutzererfahrung (UX),experiência do usuário
+23die Programmiersprache,linguagem de programação
+1die Quantenphysik,física quântica
+2das Teilchen,partícula
+3die Relativitätstheorie,teoria da relatividade
+4die Gravitationswellen,ondas gravitacionais
+5die Elektrodynamik,eletrodinâmica
+6die Schwingung,oscilação
+7die Thermodynamik,termodinâmica
+8die Entropie,entropia
+9die Energiequelle,fonte de energia
+10die Wellenfunktion,função de onda
+11die Energieumwandlung,conversão de energia
+12der Magnetismus,magnetismo
+13die Superleitung,supercondutividade
+1die Algebra,álgebra
+2die Geometrie,geometria
+3die Trigonometrie,trigonometria
+4die Analysis,análise (cálculo)
+5die Statistik,estatística
+6die Wahrscheinlichkeit,probabilidade
+7die Zahlentheorie,teoria dos números
+8der Vektor,vetor
+9die Matrix,matriz
+10die Funktion,função
+11die Kurve,curva
+1der DNA-Strang,cadeia de DNA
+2die Zellteilung,divisão celular
+3die Mitose,mitose
+4die Meiose,meiose
+5die Biotechnologie,biotecnologia
+6die Gentechnik,engenharia genética
+7die Mikrobiologie,microbiologia
+8die Antibiotikaresistenz,resistência a antibióticos
+9die Stammzellen,células-tronco
+10die Photosynthese,fotossíntese
+11die Immunantwort,resposta imunológica
+12das Immunsystem,sistema imunológico
+13die Evolutionstheorie,teoria da evolução
+14die Proteinsynthese,síntese de proteínas
+1die Gesundheitsversorgung,assistência à saúde
+2die Diagnose,diagnóstico
+3die Therapie,terapia
+4die Chemotherapie,quimioterapia
+5die Behandlung,tratamento
+6der Chirurg,cirurgião
+7die Untersuchung,exame
+8die Rehabilitation,reabilitação
+9die Prävention,prevenção
+10die Anästhesie,anestesia
+11die Impfung,vacinação
+12der Arzt / die Ärztin,médico / médica
+13die Krankenschwester,enfermeira
+14der Notarzt,médico de emergência
+15die Operation,operação
+1die Nachhaltigkeit,sustentabilidade
+2die erneuerbare Energie,energia renovável
+3die Solarenergie,energia solar
+4die Windenergie,energia eólica
+5die Wasserkraft,energia hidrelétrica
+6die Biomasse,biomassa
+7der CO2-Ausstoß,emissão de CO2
+9die Umweltverschmutzung,poluição ambiental
+10die Klimaforschung,pesquisa climática
+11die CO2-Emissionen,emissões de CO2
+12der Klimawandel,mudança climática
+13die Erderwärmung,aquecimento global
+14die Treibhausgase,gases de efeito estufa
+15das Ozonloch,buraco na camada de ozônio
+16die Abfallentsorgung,descarte de resíduos
+17die Recycling,reciclagem
+1die Ingenieurwissenschaften,engenharias
+2der Maschinenbau,engenharia mecânica
+3die Elektrotechnik,engenharia elétrica
+4die Bauingenieurwesen,engenharia civil
+5die Chemieingenieurwesen,engenharia química
+6die Nanotechnologie,nanotecnologia
+7die Robotik,robótica
+8der Automatisierungsprozess,processo de automação
+9die Künstliche Intelligenz (KI),inteligência artificial
+10die Konstruktion,construção
+11die Prototypentwicklung,desenvolvimento de protótipos
+12der Schaltkreis,circuito eletrônico
+13die Tragfähigkeit,capacidade de carga
