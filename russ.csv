@@ -1,0 +1,487 @@
+Дом (dom),casa
+Город (gorod),cidade
+Школа (shkola),escola
+Университет (universitet),universidade
+Книга (kniga),livro
+Стол (stol),mesa
+Стул (stul),cadeira
+Телефон (telefon),telefone
+Окно (okno),janela
+Дверь (dver'),porta
+Магазин (magazin),loja
+Автомобиль (avtomobil'),carro
+Семья (sem'ya),família
+Ребёнок (rebyonok),criança
+Друг (drug),amigo
+Работа (rabota),trabalho
+Время (vremya),tempo
+Деньги (dengi),dinheiro
+Солнце (solntse),sol
+Море (more),mar
+Рука (ruka),mão / braço
+Глаз (glaz),olho
+Нога (noga),perna
+Голова (golova),cabeça
+Вода (voda),água
+Еда (yeda),comida
+Молоко (moloko),leite
+Хлеб (khleb),pão
+Суп (sup),sopa
+Кофе (kofe),café
+Чай (chay),chá
+Река (reka),rio
+Гора (gora),montanha
+Погода (pogoda),clima / tempo
+Звезда (zvezda),estrela
+Цветок (tsvetok),flor
+Лес (les),floresta
+Собака (sobaka),cachorro
+Кошка (koshka),gato
+Птица (ptitsa),pássaro
+Здание (zdaniye),prédio
+Квартира (kvartira),apartamento
+Комната (komnata),quarto
+Одежда (odezhda),roupa
+Ключ (klyuch),chave
+Письмо (pismo),carta
+День (den'),dia
+Ночь (noch'),noite
+Неделя (nedelya),semana
+Месяц (mesyats),mês
+Год (god),ano
+Человек (chelovek),pessoa / ser humano
+Тело (telo),corpo
+Душа (dusha),alma
+Мысль (mysl'),pensamento
+Слово (slovo),palavra
+История (istoriya),história
+Музыка (muzyka),música
+Искусство (iskusstvo),arte
+Фильм (film),filme
+Мир (mir),mundo / paz
+Любовь (lyubov'),amor
+Счастье (schast'ye),felicidade
+Здоровье (zdorov'ye),saúde
+Радость (radost'),alegria
+Страх (strakh),medo
+Память (pamyat'),memória
+Мечта (mechta),sonho
+Сон (son),sono
+Путь (put'),caminho
+Мост (most),ponte
+Семестр (semestr),semestre
+Парк (park),parque
+Остров (ostrov),ilha
+Огонь (ogon'),fogo
+Дождь (dozhd'),chuva
+Ветер (veter),vento
+Снег (sneg),neve
+Звонок (zvonok),chamada / toque
+Экзамен (ekzamen),exame
+Сосед (sosed),vizinho
+Ресторан (restoran),restaurante
+Кинотеатр (kinoteatr),cinema
+Аптека (apteka),farmácia
+Площадь (ploshchad'),praça
+Улица (ulitsa),rua
+Рынок (rynok),mercado
+Часы (chasy),relógio
+Дерево (derevo),árvore
+Ковер (kover),tapete
+Тетрадь (tetrad'),caderno
+Ручка (ruchka),caneta
+Вещь (veshch'),coisa / objeto
+Сахар (sakhar),açúcar
+Вилка (vilka),garfo
+Нож (nozh),faca
+Ложка (lozhka),colher
+Тарелка (tarelka),prato
+Кошелек (koshelek),carteira
+Подарок (podarok),presente
+Вопрос (vopros),pergunta
+Ответ (otvet),resposta
+Причина (prichina),motivo / razão
+Океан (okean),oceano
+Фабрика (fabrika),fábrica
+Завод (zavod),usina / fábrica
+Поле (pole),campo
+Театр (teatr),teatro
+Сцена (stsena),palco
+Концерт (kontsert),show / concerto
+Выставка (vystavka),exposição
+Спорт (sport),esporte
+Мяч (myach),bola
+Игра (igra),jogo
+Тренировка (trenirovka),treino
+Карандаш (karandash),lápis
+Ластик (lastik),borracha
+Календарь (kalendar'),calendário
+Блокнот (bloknot),bloco de notas
+Звонок (zvonok),campainha / chamada
+Мыло (mylo),sabonete
+Зеркало (zerkalo),espelho
+Полотенце (polotentse),toalha
+Секунда (sekunda),segundo (tempo)
+Минута (minuta),minuto
+Час (chas),hora
+Праздник (prazdnik),feriado
+Рождество (rozhdestvo),Natal
+Пасха (pascha),Páscoa
+Меч (mech),espada
+Щит (shchit),escudo
+Король (korol'),rei
+Королева (koroleva),rainha
+Принц (prints),príncipe
+Принцесса (printsessa),princesa
+Волшебник (volshebnik),mágico / feiticeiro
+Фея (feya),fada
+Дракон (drakon),dragão
+Тролль (troll'),troll
+Оборотень (oboroten'),lobisomem
+Легенда (legenda),lenda
+Миф (mif),mito
+conjuncoes
+И (i),e
+Но (no),mas
+Или (ili),ou
+Потому что (potomu chto),porque
+Так как (tak kak),já que, visto que
+Хотя (khotya),embora
+Если (esli),se
+Чтобы (chtoby),para (que)
+Когда (kogda),quando
+Когда-либо (kogda-libo),alguma vez, algum dia
+preposicoes
+В (v),em (usado com lugares ou no tempo)
+На (na),em, sobre (usado com superfícies ou alguns lugares)
+Из (iz),de (de dentro, origem)
+От (ot),de (origem, distância)
+К (k),para, até
+О (o),sobre
+С (s),com
+Без (bez),sem
+Для (dlya),para (finalidade)
+По (po),por, segundo, de acordo com
+palavras funcionais
+Да (da),sim
+Нет (net),não
+Что (chto),o que
+Кто (kto),quem
+Как (kak),como
+Где (gde),onde
+Почему (pochemu),por que
+Сколько (skol'ko),quanto
+Этот (etot),este, esta
+Однако (odnakо),no entanto
+Зато (zato),mas (usado para contrastar)
+Тем не менее (tem ne menee),mesmo assim
+Даже (dazhe),até mesmo
+Либо (libo),ou (formal)
+Так что (tak chto),então
+Кроме того (krome togo),além disso
+Иначе (inache),caso contrário
+Друзья (druz'ya),amigos
+Свет (svet),luz
+Тёмнота (tyomnоta),escuridão
+Чувство (chuvstvo),sentimento
+Задача (zadacha),tarefa
+Решение (resheniye),solução
+Знание (znaniye),conhecimento
+Опыт (opyt),experiência
+Состояние (sostoyaniye),estado (físico ou mental)
+Труд (trud),trabalho
+Жизнь (zhizn'),vida
+Смерть (smert'),morte
+Судьба (sud'ba),destino
+Удача (udacha),sorte
+Победа (pobeda),vitória
+Неудача (neudacha),fracasso
+Шанс (shans),chance
+Гроза (groza),tempestade
+Лето (leto),verão
+Осень (osen'),outono
+Зима (zima),inverno
+Весна (vesna),primavera
+Человек (chelovek),pessoa
+Человечество (chelovechestvo),humanidade
+Родина (rodina),pátria
+Село (selo),vila
+Страна (strana),país
+Планета (planeta),planeta
+Детство (detstvo),infância
+Мать (mat'),mãe
+Отец (otets),pai
+Брат (brat),irmão
+Сестра (sestra),irmã
+Дедушка (dedushka),avô
+Бабушка (babushka),avó
+Тётя (tyotya),tia
+Дядя (dyadya),tio
+Дружба (druzhba),amizade
+Болезнь (bolezn'),doença
+Грусть (grust'),tristeza
+Отпуск (otpusk),férias
+Учёба (uchyoba),estudo
+Учитель (uchitel'),professor
+Студент (student),estudante
+Грамматика (grammatika),gramática
+Язык (yazyk),idioma
+Культура (kultura),cultura
+Наука (nauka),ciência
+Техника (tekhnika),tecnologia
+Оружие (oruzhiye),arma
+Транспорт (transport),transporte
+Поезд (poezd),trem
+Самолёт (samolet),avião
+Корабль (korabl'),navio
+Билет (bilet),ingresso
+Путешествие (puteshestviye),viagem
+Мир (mir),mundo
+Тьма (t'ma),escuridão
+Луна (luna),lua
+Облако (oblako),nuvem
+Тепло (teplo),calor
+Холод (kholod),frio
+Погода (pogoda),clima
+Природа (priroda),natureza
+Озеро (ozero),lago
+Мороз (moroz),geada
+Растение (rastenie),planta
+Животное (zhivotnoye),animal
+Рыба (ryba),peixe
+Лист (list),folha
+Корень (koren'),raiz
+Плод (plod),fruto
+Семя (sem'ya),semente
+Ухо (ukho),ouvido
+Рука (ruka),mão
+Сердце (serdtse),coração
+Зуб (zub),dente
+Кожа (kozha),pele
+Кровь (krov'),sangue
+Мозг (mozg),cérebro
+Печень (pechen'),fígado
+Желудок (zheludok),estômago
+Кость (kost'),osso
+Мышца (myshtsa),músculo
+Нерв (nerv),nervo
+Орган (organ),órgão
+Лёгкое (lyogkoye),pulmão
+Шея (sheya),pescoço
+Плечо (plecho),ombro
+Локоть (lokot'),cotovelo
+Запястье (zapyast'ye),pulso
+Палец (palets),dedo
+Колено (koleno),joelho
+Ступня (stupnya),pé
+Пища (pishcha),alimento
+Напиток (napitok),bebida
+Завтрак (zavtrak),café da manhã
+Обед (obed),almoço
+Ужин (uzhin),jantar
+Закуска (zakuska),lanche
+Десерт (desert),sobremesa
+Мясо (myaso),carne
+Фрукты (frukty),frutas
+Овощи (ovoshchi),vegetais
+Сыр (syr),queijo
+Яйцо (yaytso),ovo
+Масло (maslo),manteiga / óleo
+Сок (sok),suco
+Соль (sol'),sal
+Перец (perets),pimenta
+Соус (sous),molho
+Праздник (prazdnik),feriado / celebração
+Вечеринка (vecherinka),festa
+Событие (sobytie),evento
+Песня (pesnya),canção
+Танец (tanets),dança
+Инструмент (instrument),instrumento
+Картина (kartina),pintura
+Фотография (fotografiya),fotografia
+Актёр (aktyor),ator
+Актриса (aktrisa),atriz
+Писатель (pisatel'),escritor
+Поэт (poet),poeta
+Роман (roman),romance (livro)
+Рассказ (rasskaz),conto
+Журнал (zhurnal),revista
+Газета (gazeta),jornal
+Новости (novosti),notícias
+Реклама (reklama),publicidade
+Канал (kanal),canal (TV ou rádio)
+Программа (programma),programa
+Интернет (internet),internet
+Сайт (sait),site
+Компьютер (kompyuter),computador
+Программа (programma),software
+Файл (fail),arquivo
+Сообщение (soobshchenie),mensagem
+Звонок (zvonok),chamada
+Почта (pochta),correio
+Смартфон (smartfon),smartphone
+Батарея (batareya),bateria
+Энергия (energiya),energia
+Электричество (elektrichestvo),eletricidade
+Кнопка (knopka),botão
+Зарядка (zaryadka),carregador
+Фонарь (fonar'),lanterna
+Кабель (kabel'),cabo
+Цель (tsel'),objetivo
+План (plan),plano
+Проблема (problema),problema
+Стратегия (strategiya),estratégia
+Тактика (taktika),tática
+Успех (uspekh),sucesso
+Ресурс (resurs),recurso
+Инвестиция (investitsiya),investimento
+Капитал (kapital),capital
+Бюджет (byudzhet),orçamento
+Технология (tekhnologiya),tecnologia
+Идея (ideya),ideia
+Прогресс (progress),progresso
+Будущее (budushcheye),futuro
+Прошлое (proshloye),passado
+Настоящее (nastoyashcheye),presente
+Период (period),período
+Срок (srok),prazo
+Проект (proyekt),projeto
+Конференция (konferentsiya),conferência
+Семинар (seminar),seminário
+Тренинг (trening),treinamento
+Мастер-класс (master-klass),workshop
+Курс (kurs),curso
+Образование (obrazovaniye),educação
+Преподаватель (prepodavatel'),professor
+Сессия (sessiya),sessão (de exame)
+Туризм (turizm),turismo
+Цены (tseny),preços
+Экономика (ekonomika),economia
+Бизнес (biznes),negócios
+Предприятие (predpriyatiye),empresa
+Фирма (firma),firma
+Маркетинг (marketing),marketing
+Продукция (produktsiya),produção
+Продавец (prodavets),vendedor
+Покупатель (pokupatel'),comprador
+Покупка (pokupka),compra
+Продажа (prodazha),venda
+Клиент (kliyent),cliente
+Платеж (platezh),pagamento
+Сделка (sdelka),negócio (transação)
+Товары (tovary),mercadorias
+Услуга (usluga),serviço
+Договор (dogovor),contrato
+Документ (dokument),documento
+Техника (tekhnika),equipamento
+Оборудование (oborudovaniye),equipamento / instalação
+Программное обеспечение (programmnoye obespecheniye),software
+Процесс (protsess),processo
+Производство (proizvodstvo),produção
+Поставщик (postavshchik),fornecedor
+Конкуренция (konkurentsiya),concorrência
+Цена (tsena),preço
+Прибыль (pribyl'),lucro
+Убыток (ubytok),prejuízo
+Налоги (nalogi),impostos
+Акции (aktsii),ações
+Инвестор (investor),investidor
+Финансы (finansy),finanças
+Кредит (kredit),crédito
+Долг (dolg),dívida
+здание (zdanie),Gebäude
+комната (komnata),Zimmer
+ключ (klyuch),Schlüssel
+одежда (odezhda),Kleidung
+квартира (kvartira),Wohnung
+день (denb),Tag
+ночь (nochb),Nacht
+неделя (nedelya),Woche
+письмо (pisbmo),Brief
+год (god),Jahr
+человек (chelovek),Mensch
+тело (tel),Körper
+душа (dusha),Seele
+мысль (mysl),Gedanke
+слово (clovo),Wort
+история (istoriya),Geschichte
+музыка (myzblka),Musik
+мечта (mechta),Traum
+цель (tsel'),Ziel
+путь (put'),Weg
+понедельник (ponedelnik),Montag
+вторник (vtornik),Dienstag
+среда (sreda),Mittwoch
+четверг (chetverg),Donnerstag
+пятница (pyatnitsa),Freitag
+суббота (subbota),Samstag
+воскресенье (voskresen'ye),Sonntag
+мир (mir),Welt
+свет (svet),Licht
+тьма (t'ma),Dunkelheit
+звезда (zvezda),Stern
+солнце (solntse),Sonne
+луна (luna),Mond
+облако (oblako),Wolke
+дождь (dozhd'),Regen
+ветер (veter),Wind
+снег (sneg),Schnee
+время (vremya),Zeit
+сердце (serdtse),Herz
+глаз (glaz),Auge
+рука (ruka),Hand
+нога (noga),Bein / Fuß
+город (gorod),Stadt
+улица (ulitsa),Straße
+дом (dom),Haus
+река (reka),Fluss
+море (more),Meer
+гора (gora),Berg
+лес (les),Wald
+книга (kniga),Buch
+газета (gazeta),Zeitung
+журнал (zhurnal),Zeitschrift
+школа (shkola),Schule
+университет (universitet),Universität
+учитель (uchitel'),Lehrer
+студент (student),Student
+работа (rabota),Arbeit
+друг (drug),Freund
+подруга (podruga),Freundin
+семья (sem'ya),Familie
+ребёнок (rebyonok),Kind
+родители (roditeli),Eltern
+брат (brat),Bruder
+сестра (sestra),Schwester
+муж (muzh),Ehemann
+жена (zhena),Ehefrau
+деньги (dengi),Geld
+магазин (magazin),Geschäft / Laden
+еда (yeda),Essen
+напиток (napitok),Getränk
+хлеб (khleb),Brot
+суп (sup),Suppe
+мясо (myaso),Fleisch
+рыба (ryba),Fisch
+вода (voda),Wasser
+сок (sok),Saft
+чай (chay),Tee
+кофе (kofe),Kaffee
+сахар (sakhar),Zucker
+молоко (moloko),Milch
+автобус (avtobus),Bus
+поезд (poyezd),Zug
+самолёт (samolyot),Flugzeug
+машина (mashina),Auto
+велосипед (velosiped),Fahrrad
+дорога (doroga),Straße / Weg
+карта (karta),Karte
+билет (bilet),Ticket
+отель (otel'),Hotel
+пляж (plyazh),Strand
+паспорт (pasport),Reisepass
+аэропорт (aeroport),Flughafen
+вокзал (vokzal),Bahnhof
+сумка (sumka),Tasche
+подарок (podarok),Geschenk
+цветок (tsvetok),Blume
